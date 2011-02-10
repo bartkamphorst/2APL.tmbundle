@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>adoptz( ${1:goal} )</string>
+	<key>name</key>
+	<string>adoptgoal tail (adoptz)</string>
+	<key>scope</key>
+	<string>source.2APL</string>
+	<key>tabTrigger</key>
+	<string>az</string>
+	<key>uuid</key>
+	<string>55CD4258-376C-48AC-940A-E99528286A90</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>${1:planvar} &lt;- ${2:belquery} | {
+	${3:planvar}
+}</string>
+	<key>name</key>
+	<string>pr-rule</string>
+	<key>scope</key>
+	<string>source.2APL</string>
+	<key>tabTrigger</key>
+	<string>pr</string>
+	<key>uuid</key>
+	<string>D52B67BA-E708-4E3B-8EE9-ABAD30415178</string>
+</dict>
+</plist>

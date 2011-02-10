@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>dropsupergoals( ${1:goalvar} )</string>
+	<key>name</key>
+	<string>dropsupergoals</string>
+	<key>scope</key>
+	<string>source.2APL</string>
+	<key>tabTrigger</key>
+	<string>dsup</string>
+	<key>uuid</key>
+	<string>E7BE968E-F30B-42D5-8E9F-302DD15566B2</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>adopta( ${1:goal} )</string>
+	<key>name</key>
+	<string>adoptgoal head (adopta)</string>
+	<key>scope</key>
+	<string>source.2APL</string>
+	<key>tabTrigger</key>
+	<string>aa</string>
+	<key>uuid</key>
+	<string>0452787B-440E-4E10-83B9-C27A5FDDBF7F</string>
+</dict>
+</plist>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contactEmailRot13</key>
+	<string>2ncy@xnzcubefg.pbz</string>
+	<key>contactName</key>
+	<string>Bart Kamphorst</string>
+	<key>description</key>
+	<string><a href="http://apapl.sourceforge.net/">2APL</a>, pronounced as double-a-p-l, is an agent-oriented programming language that facilitates the implementation of multi-agent systems.</string>
+
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>D0B50480-CE93-4BF6-A0E9-6F604C0DD3C5</string>
+			<string>F086C709-C817-4569-94D1-20E77D27CCB9</string>
+			<string>B7E4AE28-83C3-4F17-AE0D-7F966001B509</string>
+			<string>D52B67BA-E708-4E3B-8EE9-ABAD30415178</string>
+			<string>0876BF9D-82C3-49B8-AC7F-780502BCEA1F</string>
+			<string>25E8F117-2BA5-4F8C-AB81-C11364BD6ACA</string>
+			<string>5623867F-4A64-43A0-B6A1-9EB4745403C8</string>
+			<string>A73E9CD8-8FEB-4052-ADCA-79C77520410F</string>
+			<string>E7BE968E-F30B-42D5-8E9F-302DD15566B2</string>
+			<string>0452787B-440E-4E10-83B9-C27A5FDDBF7F</string>
+			<string>55CD4258-376C-48AC-940A-E99528286A90</string>
+			<string>CB69BDA0-7064-4D68-B8B3-123D4670D0C9</string>
+			<string>C09DE109-9EEF-4BC2-94DD-B44FA85E209B</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>2APL</string>
+	<key>ordering</key>
+	<array>
+		<string>C65CFE73-6564-49B6-A915-1AA72FB3A2E4</string>
+		<string>6CE0331B-5181-4FB3-B02E-D6E273354F2A</string>
+		<string>BA399269-934B-48B2-BD8C-6ADB4533AECD</string>
+		<string>F086C709-C817-4569-94D1-20E77D27CCB9</string>
+		<string>B7E4AE28-83C3-4F17-AE0D-7F966001B509</string>
+		<string>D52B67BA-E708-4E3B-8EE9-ABAD30415178</string>
+		<string>D0B50480-CE93-4BF6-A0E9-6F604C0DD3C5</string>
+		<string>CB69BDA0-7064-4D68-B8B3-123D4670D0C9</string>
+		<string>C09DE109-9EEF-4BC2-94DD-B44FA85E209B</string>
+		<string>0876BF9D-82C3-49B8-AC7F-780502BCEA1F</string>
+		<string>25E8F117-2BA5-4F8C-AB81-C11364BD6ACA</string>
+		<string>5623867F-4A64-43A0-B6A1-9EB4745403C8</string>
+		<string>A73E9CD8-8FEB-4052-ADCA-79C77520410F</string>
+		<string>E7BE968E-F30B-42D5-8E9F-302DD15566B2</string>
+		<string>0452787B-440E-4E10-83B9-C27A5FDDBF7F</string>
+		<string>55CD4258-376C-48AC-940A-E99528286A90</string>
+	</array>
+	<key>uuid</key>
+	<string>82664F6B-6710-4798-8D8A-DC6B5560488E</string>
+</dict>
+</plist>

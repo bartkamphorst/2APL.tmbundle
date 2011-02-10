@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>B( ${1:belquery} )</string>
+	<key>name</key>
+	<string>belieftest</string>
+	<key>scope</key>
+	<string>source.2APL</string>
+	<key>tabTrigger</key>
+	<string>bt</string>
+	<key>uuid</key>
+	<string>0876BF9D-82C3-49B8-AC7F-780502BCEA1F</string>
+</dict>
+</plist>
